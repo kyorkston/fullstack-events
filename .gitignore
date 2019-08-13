@@ -1,2 +1,4 @@
 node_modules
 seeders
+database.sqlite
+yarn-error.log
